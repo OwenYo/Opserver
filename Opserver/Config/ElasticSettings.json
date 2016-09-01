@@ -1,0 +1,29 @@
+﻿{
+    "clusters": [
+        //{
+        //    "name": "NY Production",
+        //    "refreshIntervalSeconds": 10,
+        //    "nodes": [
+        //        "ny-search01",
+        //        "ny-search02",
+        //        "ny-search03"
+        //    ]
+        //},
+        //{
+        //    "name": "NY Development",
+        //    "refreshIntervalSeconds": 20,
+        //    "nodes": [
+        //        "ny-devsearch01",
+        //        "ny-devsearch02"
+        //    ]
+        //},
+        {
+            "name": "127.0.0.1",
+            "refreshIntervalSeconds": 20,
+            "nodes": [
+                //"XG-20160323DCJE",
+                "127.0.0.1"
+            ]
+        }
+    ]
+}
